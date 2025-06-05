@@ -1,0 +1,25 @@
+Based on sdsu's  25-26 meal plan 
+
+helps students be able to use the meal plan with going over
+or how to use their left over money before it goes back to the school
+efficiently spending all of their meal plan to get their moneys worth 
+
+Flex 5/7
+
+have a database with avg prices of meals from each place
+based on how many meals you want, that day, give suggestions on what to get
+if the what a snack, something from the market offer suggestions
+
+
+Meals Plus/ 2nd Year Plan
+
+if have to much money left over, break it up so they can effectively use all of it before school ends
+Offer suggestions based on ???
+take in account swipes 
+
+Other Factors:
+when meal plans ends
+
+
+pandas data frames 
+SQLite 
